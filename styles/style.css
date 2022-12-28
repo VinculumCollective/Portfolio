@@ -1,43 +1,11 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@erdavids 
-mdn
-/
-beginner-html-site-styled
-Public
-Code
-Issues
-1
-Pull requests
-5
-Actions
-Projects
-Wiki
-Security
-More
-beginner-html-site-styled/styles/style.css
-@dpanov
-dpanov Updated Firefox icon
-Latest commit 02c41ba on Feb 2, 2019
- History
- 1 contributor
-41 lines (33 sloc)  495 Bytes
-
 html {
   font-size: 10px;
   font-family: 'Open Sans', sans-serif;
 }
 
-
 h1 {
   font-size: 60px;
-  text-align: center;
+  text-align: right;
 }
 
 p, li {
@@ -52,36 +20,19 @@ html {
 }
 
 body {
-  width: 600px;
+  width: 60%;
   margin: 0 auto;
-  background-color: #FF9500;
+  background-color: #FFFFFF;
   padding: 0 20px 20px 20px;
-  border: 5px solid black;
 }
 
 h1 {
   margin: 0;
   padding: 20px 0;
   color: #00539F;
-  text-shadow: 3px 3px 1px black;
 }
 
 img {
   display: block;
   margin: 0 auto;
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-beginner-html-site-styled/style.css at gh-pages · mdn/beginner-html-site-styled
