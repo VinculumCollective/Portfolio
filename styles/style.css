@@ -1,6 +1,7 @@
 html {
   font-size: 10px;
   font-family: 'Open Sans', sans-serif;
+  color: #333333;
 }
 
 h1 {
@@ -16,20 +17,20 @@ p, li {
 
 
 html {
-  background-color: #00539F;
+  background-color: #FAF0E0;
 }
 
 body {
   width: 60%;
   margin: 0 auto;
-  background-color: #FFFFFF;
+  background-color: #FAF0E0;
   padding: 0 20px 20px 20px;
 }
 
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: #00539F;
+  color: #333333;
 }
 
 img {
